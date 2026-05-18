@@ -26,3 +26,14 @@
   - แก้เฉพาะ CSS/label ของปุ่ม copy โดยไม่แตะ flow อื่น
 - จะทำอะไรต่อ:
   - commit และ push ขึ้น GitHub
+## 2026-05-18 09:20 (Asia/Bangkok)
+- ทำอะไรไปแล้ว:
+  - รันแบ็กอัป `backup.py` ก่อนแก้โค้ดรอบนี้
+  - เพิ่มปุ่ม `OPEN GOOGLE SHEET` ใน `index.html` ตามตำแหน่งในภาพ (ใต้การ์ด Tag Specifications ฝั่งซ้าย)
+  - ปุ่มลิงก์ไปที่ `https://docs.google.com/spreadsheets/d/1eaiPY8Hm-zjpCSNoNBm-vFqldNtWh6WglC9_niXlqb8/edit?gid=1720180950`
+- ปัญหาคืออะไร:
+  - ไม่มี
+- แก้ยังไง:
+  - เพิ่มเฉพาะโครงปุ่มและสไตล์ที่เข้าธีม โดยไม่แตะ flow อื่น
+- จะทำอะไรต่อ:
+  - commit และ push ขึ้น GitHub
